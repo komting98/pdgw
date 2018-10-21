@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>Daun-Daun Bersemi Lagi &#8211; Radio Podcast Indonesia</title>
+	<atom:link href="http://podcast.riifm.top/category/daun-daun-bersemi-lagi/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://podcast.riifm.top</link>
+	<description>Koleksi Ceramah Agama Islam dan lagu islami</description>
+	<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+<itunes:subtitle>Koleksi Ceramah Agama Islam dan lagu islami</itunes:subtitle>
+	<itunes:category text="Religion &amp; Spirituality">
+		<itunes:category text="Islam" />
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+		<item>
+		<title>Segera, tunggu tanggal mainnya ..</title>
+		<link>http://podcast.riifm.top/segera-tunggu-tanggal-mainnya/</link>
+		<comments>http://podcast.riifm.top/segera-tunggu-tanggal-mainnya/#respond</comments>
+		<pubDate>Tue, 06 Sep 2016 08:59:37 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Daun-Daun Bersemi Lagi]]></category>
+		<category><![CDATA[Kemelut Cinta di Atas Noda]]></category>
+		<category><![CDATA[Perguruan Lopandak]]></category>
+		<category><![CDATA[Tutur Tinular]]></category>
+
+		<guid isPermaLink="false">http://pod.grabthesound.com/?p=3603</guid>
+		<description><![CDATA[Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu kisah dengan latar belakang sejarah runtuhnya Kerajaan Singhasari dan berdirinya Kerajaan Majapahit. Tutur Tinular sendiri berasal dari bahasa Jawa yang [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu kisah dengan latar belakang sejarah runtuhnya Kerajaan Singhasari dan berdirinya Kerajaan Majapahit.</p>
+<p>Tutur Tinular sendiri berasal dari bahasa Jawa yang berarti â€œnasihat atau petuah yang disebarluaskanâ€.<br />
+Anda dapat mendengarkan sandiwara radio tutur tinular melalui aplikasi ini.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://podcast.riifm.top/segera-tunggu-tanggal-mainnya/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pelangi-diatas-kurawan1/seri-001.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu kisah dengan latar belakang sejarah runtuhnya Kerajaan Singhasari dan berdirinya Kerajaan Majapahit.
+Tutur Tinular sendiri berasal dari bahasa Jawa yang berarti â€œnasihat atau petuah yang disebarluaskanâ€.
+Anda dapat mendengarkan sandiwara radio tutur tinular melalui aplikasi ini.
+</itunes:summary>
+<itunes:subtitle>Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu [...]</itunes:subtitle>
+	</item>
+	</channel>
+</rss>
