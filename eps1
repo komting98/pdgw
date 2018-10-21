@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>Daun-Daun Bersemi Lagi &#8211; Radio Podcast Indonesia</title>
+<title>0</title>
 <atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
 <link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
 <description>0</description>
@@ -36,6 +35,7 @@
 	<itunes:summary>0</itunes:summary>
 	<itunes:subtitle>0</itunes:subtitle>
 	</item>	
+
 	
-</channel>
-</rss>
+	
+</channel></rss>
