@@ -9,15 +9,15 @@
 
 <channel>
 <title>Daun-Daun Bersemi Lagi &#8211; Radio Podcast Indonesia</title>
-<atom:link href="http://podcast.riifm.top/category/daun-daun-bersemi-lagi/feed/podcast/" rel="self" type="application/rss+xml" />
-<link>http://podcast.riifm.top</link>
-<description>Koleksi Ceramah Agama Islam dan lagu islami</description>
+<atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<description>0</description>
 <lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
 <language>en-US</language>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>https://wordpress.org/?v=4.9.8</generator>
-<itunes:subtitle>Koleksi Ceramah Agama Islam dan lagu islami</itunes:subtitle>
+<itunes:subtitle>0</itunes:subtitle>
 <itunes:category text="Religion &amp; Spirituality">
 <itunes:category text="Islam" />
 </itunes:category>
