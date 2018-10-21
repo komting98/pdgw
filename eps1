@@ -22,31 +22,29 @@
 		<itunes:category text="Islam" />
 	</itunes:category>
 	<itunes:explicit>no</itunes:explicit>
-		<item>
-		<title>Segera, tunggu tanggal mainnya ..</title>
-		<link>http://podcast.riifm.top/segera-tunggu-tanggal-mainnya/</link>
-		<comments>http://podcast.riifm.top/segera-tunggu-tanggal-mainnya/#respond</comments>
-		<pubDate>Tue, 06 Sep 2016 08:59:37 +0000</pubDate>
-		<dc:creator><![CDATA[neysa]]></dc:creator>
-				<category><![CDATA[Daun-Daun Bersemi Lagi]]></category>
-		<category><![CDATA[Kemelut Cinta di Atas Noda]]></category>
-		<category><![CDATA[Perguruan Lopandak]]></category>
-		<category><![CDATA[Tutur Tinular]]></category>
 
-		<guid isPermaLink="false">http://pod.grabthesound.com/?p=3603</guid>
-		<description><![CDATA[Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu kisah dengan latar belakang sejarah runtuhnya Kerajaan Singhasari dan berdirinya Kerajaan Majapahit. Tutur Tinular sendiri berasal dari bahasa Jawa yang [&#8230;]]]></description>
-				<content:encoded><![CDATA[<p>Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu kisah dengan latar belakang sejarah runtuhnya Kerajaan Singhasari dan berdirinya Kerajaan Majapahit.</p>
-<p>Tutur Tinular sendiri berasal dari bahasa Jawa yang berarti â€œnasihat atau petuah yang disebarluaskanâ€.<br />
-Anda dapat mendengarkan sandiwara radio tutur tinular melalui aplikasi ini.</p>
+	
+		<item>
+		<title>Pelangi Diatas Glagah Wangi - Seri 90</title>
+		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/</link>
+		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/#respond</comments>
+		<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+		<dc:creator><![CDATA[neysa]]></dc:creator>
+				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
+
+		<guid isPermaLink="false">http://podcast.riifm.top/?p=3697</guid>
+		<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi Seri 90]]></description>
+				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -031</p>
+<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3&id=3697" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>http://podcast.riifm.top/segera-tunggu-tanggal-mainnya/feed/</wfw:commentRss>
+			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="https://archive.org/download/pelangi-diatas-kurawan1/seri-001.mp3" length="1048576" type="audio/mpeg" />
-	<itunes:summary>Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu kisah dengan latar belakang sejarah runtuhnya Kerajaan Singhasari dan berdirinya Kerajaan Majapahit.
-Tutur Tinular sendiri berasal dari bahasa Jawa yang berarti â€œnasihat atau petuah yang disebarluaskanâ€.
-Anda dapat mendengarkan sandiwara radio tutur tinular melalui aplikasi ini.
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-90.mp3" length="1048576" type="audio/mpeg" />
+	<itunes:summary>Kisah dari seberang lautan Seri -031
+https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Player in New Window
 </itunes:summary>
-<itunes:subtitle>Tutur Tinular adalah judul sebuah sandiwara radio yang sangat legendaris. Kisah ini menceritakan tentang perjalanan hidup dan pencarian jati diri seorang pendekar yang berjiwa ksatria bernama Arya Kamandanu akan keagungan Tuhan Yang Maha Esa, suatu [...]</itunes:subtitle>
-	</item>
+<itunes:subtitle>Kisah dari seberang lautan Seri -031</itunes:subtitle>
+	</item>	
+	
 	</channel>
 </rss>
