@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-xmlns:content="http://purl.org/rss/1.0/modules/content/"
-xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-xmlns:dc="http://purl.org/dc/elements/1.1/"
-xmlns:atom="http://www.w3.org/2005/Atom"
-xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-<channel>
-<title>0</title>
-<atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
-<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
-<description>0</description>
-<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
-<language>en-US</language>
-<sy:updatePeriod>hourly</sy:updatePeriod>
-<sy:updateFrequency>1</sy:updateFrequency>
-<generator>https://wordpress.org/?v=4.9.8</generator>
-<itunes:subtitle>0</itunes:subtitle>
-<itunes:explicit>no</itunes:explicit>
+	<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 
-	
+	<channel>
+	<title>0</title>
+	<atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
+	<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+	<description>0</description>
+	<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+	<itunes:subtitle>0</itunes:subtitle>
+	<itunes:explicit>no</itunes:explicit>
+
 <item>
 <title>Pelangi Diatas Glagah Wangi - Seri 01</title>
 <link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
@@ -500,8 +500,4 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <itunes:subtitle>0</itunes:subtitle>
 </item>
 
-
-
-	
-	
-</channel></rss>
+	</channel></rss>
