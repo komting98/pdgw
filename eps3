@@ -1,103 +1,507 @@
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-	<title>Kisah dari Seberang Lautan &#8211; Radio Podcast Indonesia</title>
-	<atom:link href="http://podcast.riifm.top/category/kisah-dari-seberang-lautan/feed/podcast/" rel="self" type="application/rss+xml" />
-	<link>http://podcast.riifm.top</link>
-	<description>Koleksi Ceramah Agama Islam dan lagu islami</description>
-	<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.8</generator>
-<itunes:subtitle>Koleksi Ceramah Agama Islam dan lagu islami</itunes:subtitle>
-	<itunes:category text="Religion &amp; Spirituality">
-		<itunes:category text="Islam" />
-	</itunes:category>
-	<itunes:explicit>no</itunes:explicit>
-		<item>
-		<title>Kisah dari seberang lautan Seri -060</title>
-		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/</link>
-		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/#respond</comments>
-		<pubDate>Sat, 07 Apr 2018 07:29:43 +0000</pubDate>
-		<dc:creator><![CDATA[neysa]]></dc:creator>
-				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
-		<category><![CDATA[Tutur Tinular]]></category>
-		<category><![CDATA[Tutur tinular]]></category>
+<title>0</title>
+<atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<description>0</description>
+<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>https://wordpress.org/?v=4.9.8</generator>
+<itunes:subtitle>0</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
 
-		<guid isPermaLink="false">http://podcast.riifm.top/?p=3757</guid>
-		<description><![CDATA[Kisah dari seberang lautan Seri -060]]></description>
-				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -060</p>
-<a href="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3">https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3&id=3757" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
-]]></content:encoded>
-			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-060/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3" length="1048576" type="audio/mpeg" />
-	<itunes:summary>Kisah dari seberang lautan Seri -060
-https://archive.org/download/kisah-dari-seberang-lautan2/seri-060.mp3 | Open Player in New Window
-</itunes:summary>
-<itunes:subtitle>Kisah dari seberang lautan Seri -060</itunes:subtitle>
-	</item>
-	
-	
-			<item>
-		<title>Pelangi Diatas Glagah Wangi - Seri 89</title>
-		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/</link>
-		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/#respond</comments>
-		<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
-		<dc:creator><![CDATA[neysa]]></dc:creator>
-				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
-		<category><![CDATA[Tutur Tinular]]></category>
-		<category><![CDATA[kisah dari seberang lautan]]></category>
-		<category><![CDATA[seri 031]]></category>
 
-		<guid isPermaLink="false">http://podcast.riifm.top/?p=3697</guid>
-		<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi Seri 89]]></description>
-				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -031</p>
-<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3&id=3697" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
-]]></content:encoded>
-			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 61</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 61]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-61.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 62</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 62]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-62.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 63</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 63]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-63.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 64</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 64]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-64.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 65</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 65]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-65.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 66</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 66]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-66.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 67</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 67]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-67.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 68</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 68]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-68.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 69</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 69]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-69.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 70</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 70]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-70.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 71</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 71]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-71.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 72</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 72]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-72.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 73</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 73]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-73.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 74</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 74]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-74.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 75</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 75]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-75.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 76</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 76]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-76.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 77</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 77]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-77.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 78</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 78]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-78.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 79</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 79]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-79.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 80</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 80]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-80.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 81</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 81]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-81.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 82</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 82]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-82.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 83</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 83]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-83.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 84</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 84]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-84.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 85</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 85]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-85.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 86</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 86]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-86.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 87</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 87]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-87.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 88</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 88]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-82/pdgw-88.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 89</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 89]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
 <enclosure url="https://archive.org/download/pdgw-82/pdgw-89.mp3" length="1048576" type="audio/mpeg" />
-	<itunes:summary>Kisah dari seberang lautan Seri -031
-https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Player in New Window
-</itunes:summary>
-<itunes:subtitle>Kisah dari seberang lautan Seri -031</itunes:subtitle>
-	</item>
-	
-		
-		<item>
-		<title>Pelangi Diatas Glagah Wangi - Seri 90</title>
-		<link>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/</link>
-		<comments>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/#respond</comments>
-		<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
-		<dc:creator><![CDATA[neysa]]></dc:creator>
-				<category><![CDATA[Kisah dari Seberang Lautan]]></category>
-		<category><![CDATA[Tutur Tinular]]></category>
-		<category><![CDATA[kisah dari seberang lautan]]></category>
-		<category><![CDATA[seri 031]]></category>
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
 
-		<guid isPermaLink="false">http://podcast.riifm.top/?p=3697</guid>
-		<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi Seri 90]]></description>
-				<content:encoded><![CDATA[<p>Kisah dari seberang lautan Seri -031</p>
-<a href="https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3">https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3</a><p> | <a href="http://podcast.riifm.top/castplayer?castfile=https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3&id=3697" rel="0" class="newPlayerWindow" >Open Player in New Window</a></p>
-]]></content:encoded>
-			<wfw:commentRss>http://podcast.riifm.top/kisah-dari-seberang-lautan-seri-031/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 90</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi 90]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
 <enclosure url="https://archive.org/download/pdgw-82/pdgw-90.mp3" length="1048576" type="audio/mpeg" />
-	<itunes:summary>Kisah dari seberang lautan Seri -031
-https://archive.org/download/kisah-dari-seberang-lautan1/seri-031.mp3 | Open Player in New Window
-</itunes:summary>
-<itunes:subtitle>Kisah dari seberang lautan Seri -031</itunes:subtitle>
-	</item>
-	
-	
-	</channel>
-</rss>
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+
+
+
+
+</channel></rss>
