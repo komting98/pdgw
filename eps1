@@ -20,21 +20,487 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <itunes:explicit>no</itunes:explicit>
 
 	
-	<item>
-	<title>Pelangi Diatas Glagah Wangi - Seri 90</title>
-	<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
-	<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
-	<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
-	<dc:creator><![CDATA[komting]]></dc:creator>
-	<category><![CDATA[0]]></category>
-	<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
-	<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi Seri 90]]></description>
-	<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
-	<slash:comments>0</slash:comments>
-	<enclosure url="https://archive.org/download/pdgw-82/pdgw-90.mp3" length="1048576" type="audio/mpeg" />
-	<itunes:summary>0</itunes:summary>
-	<itunes:subtitle>0</itunes:subtitle>
-	</item>	
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 01</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 01]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-01.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 02</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 02]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-02.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 03</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 03]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-03.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 04</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 04]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-04.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 05</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 05]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-05.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 06</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 06]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-06.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 07</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 07]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-07.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 08</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 08]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-08.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 09</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 09]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-09.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 10</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 10]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-10.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 11</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 11]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-11.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 12</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 12]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-12.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 13</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 13]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-13.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 14</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 14]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-14.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 15</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 15]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-15.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 16</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 16]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-16.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 17</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 17]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-17.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 18</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 18]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-18.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 19</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 19]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-19.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 20</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 20]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-20.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 21</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 21]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-21.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 22</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 22]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-22.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 23</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 23]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-23.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 24</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 24]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-24.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 25</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 25]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-25.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 26</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 26]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-26.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 27</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 27]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-27.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 28</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 28]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-28.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 29</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 29]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-29.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 30</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 1 Ilmu Rikmasidi 30]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-01_201810/pdgw-30.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+
 
 	
 	
