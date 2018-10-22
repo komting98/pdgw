@@ -20,21 +20,487 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <itunes:explicit>no</itunes:explicit>
 
 	
-	<item>
-	<title>Update malam minggu ya guys!</title>
-	<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
-	<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
-	<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
-	<dc:creator><![CDATA[komting]]></dc:creator>
-	<category><![CDATA[0]]></category>
-	<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
-	<description><![CDATA[Episode 3 Sirna Hilang Kertaning Bumi Seri 90]]></description>
-	<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
-	<slash:comments>0</slash:comments>
-	<enclosure url="https://archive.org/download/pdgw-82/pdgw-90.mp3" length="1048576" type="audio/mpeg" />
-	<itunes:summary>0</itunes:summary>
-	<itunes:subtitle>0</itunes:subtitle>
-	</item>	
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 31</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 31]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-31.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 32</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 32]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-32.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 33</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 33]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-33.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 34</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 34]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-34.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 35</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 35]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-35.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 36</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 36]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-36.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 37</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 37]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-37.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 38</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 38]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-38.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 39</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 39]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-39.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 40</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 40]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-40.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 41</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 41]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-41.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 42</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 42]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-42.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 43</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 43]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-43.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 44</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 44]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-44.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 45</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 45]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-45.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 46</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 46]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-46.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 47</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 47]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-47.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 48</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 48]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-48.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 49</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 49]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-49.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 50</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 50]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-50.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 51</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 51]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-51.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 52</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 52]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-52.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 53</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 53]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-53.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 54</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 54]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-54.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 55</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 55]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-55.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 56</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 56]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-56.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 57</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 57]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-57.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 58</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 58]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-58.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 59</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 59]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-59.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Pelangi Diatas Glagah Wangi - Seri 60</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 2 Mencari Jati Diri 60]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/pdgw-57/pdgw-60.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+
 
 	
 	
