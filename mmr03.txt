@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+<title>0</title>
+<atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<description>0</description>
+<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>https://wordpress.org/?v=4.9.8</generator>
+<itunes:subtitle>0</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 01</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 01]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/01.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 02</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 02]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/02.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 03</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 03]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/03.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 04</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 04]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/04.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 05</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 05]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/05.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 06</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 06]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/06.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 07</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 07]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/07.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 08</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 08]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/08.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 09</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 09]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/09.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 10</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 10]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/10.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 11</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 11]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/11.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 12</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 12]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/12.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 13</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 13]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/13.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 14</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 14]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/14.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 15</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 15]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/15.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 16</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 16]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/16.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 17</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 17]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/17.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 18</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 18]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27/18.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 19</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 19]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/19.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 20</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 20]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/20.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 21</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 21]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/21.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 22</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 22]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/22.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 23</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 23]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/23.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 24</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 24]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/24.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 25</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 25]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/25.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 26</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 26]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/26.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 27</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 27]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/27.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 28</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 28]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/28.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 29</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 29]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/29.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E03 - Seri 30</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 03 - Panji-panji Kebesaran - Seri 30]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_27_201810/30.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+
+</channel></rss>

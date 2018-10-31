@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+<title>0</title>
+<atom:link href="https://raw.githubusercontent.com/komting98/pdgw/master/catatan" rel="self" type="application/rss+xml" />
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<description>0</description>
+<lastBuildDate>Sat, 07 Apr 2018 07:29:43 +0000</lastBuildDate>
+<language>en-US</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>https://wordpress.org/?v=4.9.8</generator>
+<itunes:subtitle>0</itunes:subtitle>
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 01</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 01]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/01.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 02</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 02]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/02.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 03</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 03]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/03.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 04</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 04]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/04.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 05</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 05]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/05.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 06</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 06]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/06.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 07</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 07]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/07.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 08</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 08]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/08.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 09</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 09]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/09.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 10</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 10]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/10.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 11</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 11]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/11.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 12</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 12]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/12.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 13</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 13]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/13.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 14</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 14]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/14.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 15</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 15]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/15.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 16</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 16]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/16.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 17</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 17]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/17.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 18</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 18]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/18.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 19</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 19]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/19.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 20</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 20]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/20.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 21</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 21]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/21.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 22</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 22]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/22.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 23</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 23]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/23.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 24</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 24]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/24.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 25</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 25]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/25.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 26</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 26]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/26.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 27</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 27]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/27.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 28</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 28]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/28.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 29</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 29]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/29.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+<item>
+<title>Misteri Mak Rompang E08 - Seri 30</title>
+<link>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</link>
+<comments>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</comments>
+<pubDate>Sat, 07 Apr 2018 04:52:59 +0000</pubDate>
+<dc:creator><![CDATA[komting]]></dc:creator>
+<category><![CDATA[0]]></category>
+<guid isPermaLink="false">https://raw.githubusercontent.com/komting98/pdgw/master/catatan</guid>
+<description><![CDATA[Episode 08 - Racun Kembang Goyang - Seri 30]]></description>
+<wfw:commentRss>https://raw.githubusercontent.com/komting98/pdgw/master/catatan</wfw:commentRss>
+<slash:comments>0</slash:comments>
+<enclosure url="https://archive.org/download/komtingpnk_gmail_10/30.mp3" length="1048576" type="audio/mpeg" />
+<itunes:summary>0</itunes:summary>
+<itunes:subtitle>0</itunes:subtitle>
+</item>
+
+
+</channel></rss>
